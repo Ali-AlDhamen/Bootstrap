@@ -15,3 +15,8 @@ body::before {
     width: 50%;
   }
 }
+@media (max-width: 576px) {
+  .sos {
+    margin-top: 1rem;
+  }
+}
